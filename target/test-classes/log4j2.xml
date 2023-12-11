@@ -1,0 +1,23 @@
+<Configuration status="INFO">
+    <Properties>
+        <Property name="csvLog.fileName">csvLog</Property>
+        <Property name="file-header">FirstName,LastName,Birthdate,Email,Address,Postcode,Contact,BreedName,PetName,PetDOB,PetPrice,StartDate,PlanValue,PolicyNumber,PremiumValue</Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="csvFile"
+                     fileName="${csvLog.fileName}.csv"
+                     filePattern="${csvLog.filename}-%d{MM-dd-yyyy}-%i.csv" >
+            <CsvParameterLayout delimiter="," header="${file-header}\n"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+                <SizeBasedTriggeringPolicy size="10 MB" />
+            </Policies>
+            <DefaultRolloverStrategy max="200" />
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="info" additivity="false">
+            <AppenderRef ref="csvFile" level="info"/>
+        </Root>
+    </Loggers>
+</Configuration>
