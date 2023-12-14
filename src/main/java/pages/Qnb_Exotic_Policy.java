@@ -14,6 +14,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import utils.Log;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -31,6 +32,8 @@ public class Qnb_Exotic_Policy {
         this.driver = driver;
     }
 
+    String breedType = "";
+
     private By petName = By.cssSelector("input[name='petname']");
 
     private By continueButton = By.cssSelector("button[id='button-addon2']");
@@ -41,6 +44,14 @@ public class Qnb_Exotic_Policy {
     private By speciesDropDown = By.xpath("//div[@class='dropdown dselect-wrapper form-control rounded-5 findus']/button");
 
     private By optionOfSpeciesDropDown = By.xpath("//div[@class='dropdown dselect-wrapper form-control rounded-5 findus']/div/div/div/button[2]");
+
+    private By optionOfSpeciesDropDownForBirdOfPray = By.xpath("//div[@class='dropdown dselect-wrapper form-control rounded-5 findus']/div/div/div/button[2]");
+
+    private By optionOfSpeciesDropDownForMammal = By.xpath("//div[@class='dropdown dselect-wrapper form-control rounded-5 findus']/div/div/div/button[3]");
+
+    private By optionOfSpeciesDropDownForReptile = By.xpath("//div[@class='dropdown dselect-wrapper form-control rounded-5 findus']/div/div/div/button[4]");
+
+    private By optionOfSpeciesDropDownForTortoise = By.xpath("//div[@class='dropdown dselect-wrapper form-control rounded-5 findus']/div/div/div/button[5]");
 
     private By speciesContinueButton = By.cssSelector("button[class='btn btn-primary rounded-5']");
 
@@ -57,6 +68,8 @@ public class Qnb_Exotic_Policy {
     private By petGenderRadio = By.cssSelector("input[id='male']");
 
     private By petDateOfBirth = By.cssSelector("input[id='hatchedborn1']");
+
+    private By petDateOfBirthMammal=By.cssSelector("input[id='tortoisage']");
 
     private By petPrice = By.cssSelector("input[id='payforpet']");
 
@@ -145,12 +158,14 @@ public class Qnb_Exotic_Policy {
             throw new RuntimeException(e);
         }
         driver.findElement(petName).sendKeys("Chiggy");
+        Log.info("User Has Entered Name Of Pet");
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
         driver.findElement(continueButton).click();
+        Log.info("User Has Clicked On Continue Button To Move On Picture Upload Page");
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
@@ -190,6 +205,12 @@ public class Qnb_Exotic_Policy {
             throw new RuntimeException(e);
         }
         driver.findElement(speciesDropDown).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        breedType = driver.findElement(optionOfSpeciesDropDown).getText();
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
@@ -235,8 +256,6 @@ public class Qnb_Exotic_Policy {
 
     public void enterClientAndPetDetails() {
 
-
-        //enter Client And pet information page
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
@@ -248,13 +267,23 @@ public class Qnb_Exotic_Policy {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        driver.findElement(petDateOfBirth).sendKeys("01/01/2021");
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
+        if (breedType.equalsIgnoreCase("Mammal")){
+            driver.findElement(petDateOfBirthMammal).sendKeys("01/01/2021");
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
         }
-        driver.findElement(petPrice).sendKeys("700");
+        else {
+            driver.findElement(petDateOfBirth).sendKeys("01/01/2021");
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        }
+        driver.findElement(petPrice).sendKeys("1100");
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
@@ -281,19 +310,19 @@ public class Qnb_Exotic_Policy {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        driver.findElement(clientEmailId).sendKeys("nitesh.barot@fakeprowerse.com");
+        driver.findElement(clientEmailId).sendKeys("nitesh@gmail.com");
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        driver.findElement(clientNumber).sendKeys("9999999999");
+        driver.findElement(clientNumber).sendKeys("9090909090");
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        driver.findElement(clientDOB).sendKeys("13/9/1988");
+        driver.findElement(clientDOB).sendKeys("19/09/1987");
         try {
             Thread.sleep(1000);
         } catch (InterruptedException e) {
@@ -392,22 +421,64 @@ public class Qnb_Exotic_Policy {
             throw new RuntimeException(e);
         }
 
-
         JavascriptExecutor js5 = (JavascriptExecutor) driver;
         js5.executeScript("window.scrollBy(0,500)", "");
 
-        WebElement premierPlan = driver.findElement(By.cssSelector("button[name='plus']"));
-        JavascriptExecutor executor7 = (JavascriptExecutor) driver;
-        executor7.executeScript("arguments[0].click();", premierPlan);
+        if (breedType.equalsIgnoreCase("Bird") ||breedType.equalsIgnoreCase("Reptile")) {
 
-        // driver.findElement(premiumPlan).click();
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
+            JavascriptExecutor js6 = (JavascriptExecutor) driver;
+            js6.executeScript("window.scrollBy(0,500)", "");
+
+            WebElement premierPlan = driver.findElement(By.cssSelector("button[name='premium']"));
+            JavascriptExecutor executor7 = (JavascriptExecutor) driver;
+            executor7.executeScript("arguments[0].click();", premierPlan);
+
+            // driver.findElement(premiumPlan).click();
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+
+        } else if (breedType.equalsIgnoreCase("Bird of Prey")||breedType.equalsIgnoreCase("Tortoise & Turtle")) {
+            JavascriptExecutor js7 = (JavascriptExecutor) driver;
+            js7.executeScript("window.scrollBy(0,500)", "");
+
+            WebElement premierPlan = driver.findElement(By.cssSelector("button[name='plus']"));
+            JavascriptExecutor executor7 = (JavascriptExecutor) driver;
+            executor7.executeScript("arguments[0].click();", premierPlan);
+
+            // driver.findElement(premiumPlan).click();
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        } else if (breedType.equalsIgnoreCase("Mammal")) {
+            JavascriptExecutor js8 = (JavascriptExecutor) driver;
+            js8.executeScript("window.scrollBy(0,500)", "");
+
+            WebElement premierPlan = driver.findElement(By.cssSelector("button[name='value']"));
+            JavascriptExecutor executor7 = (JavascriptExecutor) driver;
+            executor7.executeScript("arguments[0].click();", premierPlan);
+
+            // driver.findElement(premiumPlan).click();
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
         }
-
-        // driver.findElement(premiumPlan).click();
+//        WebElement premierPlan = driver.findElement(By.cssSelector("button[name='value']"));
+//        JavascriptExecutor executor7 = (JavascriptExecutor) driver;
+//        executor7.executeScript("arguments[0].click();", premierPlan);
+//
+//        // driver.findElement(premiumPlan).click();
+//        try {
+//            Thread.sleep(1000);
+//        } catch (InterruptedException e) {
+//            throw new RuntimeException(e);
+//        }
 
         driver.findElement(buyButton).click();
         try {
@@ -415,7 +486,7 @@ public class Qnb_Exotic_Policy {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        driver.findElement(coverStartDate).sendKeys("10/01/2024");
+        driver.findElement(coverStartDate).sendKeys("01/01/2024");
         JavascriptExecutor js6 = (JavascriptExecutor) driver;
         js6.executeScript("window.scrollBy(0,700)", "");
         try {
@@ -510,7 +581,7 @@ public class Qnb_Exotic_Policy {
             throw new RuntimeException(e);
         }
         WebElement button = driver.findElement(By.xpath("//button[@id='cntnbtn']"));
-        JavascriptExecutor executor8= (JavascriptExecutor)driver;
+        JavascriptExecutor executor8 = (JavascriptExecutor) driver;
         executor8.executeScript("arguments[0].click();", button);
         // driver.findElement(continueButtonNextPage).click();
         try {
@@ -518,8 +589,8 @@ public class Qnb_Exotic_Policy {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));
-        WebElement policyNumber1=wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[@class='planDetails pb-0']/ul/li[5]/span")));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        WebElement policyNumber1 = wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[@class='planDetails pb-0']/ul/li[5]/span")));
 
         String policyNumber = policyNumber1.getText();
 
@@ -528,18 +599,11 @@ public class Qnb_Exotic_Policy {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        WebDriverWait wait1=new WebDriverWait(driver, Duration.ofSeconds(10));
-        WebElement premiumValue=wait1.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[@class='planDetails pb-0']/ul/li[6]/span")));
-        String premiumValue1= premiumValue.getText();
+        WebDriverWait wait1 = new WebDriverWait(driver, Duration.ofSeconds(10));
+        WebElement premiumValue = wait1.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[@class='planDetails pb-0']/ul/li[6]/span")));
+        String premiumValue1 = premiumValue.getText();
 
-        //logger.info("Client Pet and Premium Details ", firstName, lastName, birthdate, email1, address1, postcode, contact,breedName, petName1, petDOB1, petPrice1, startDate1,planValue, policyNumber,premiumValue1);
-        //String PolicyNum=driver.findElement(By.xpath("//div[@class='planDetails pb-0']/ul/li[5]/span")).getText();
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
-        logger.info("Client Pet and Premium Details ", policyNumber, premiumValue1);
+        //logger.info("Client Pet and Premium Details ", firstName, lastName, birthdate, email1, address1, postcode, contact, breedName, petName1, petDOB1, petPrice1, startDate1, planValue, policyNumber, premiumValue1);
         //String PolicyNum=driver.findElement(By.xpath("//div[@class='planDetails pb-0']/ul/li[5]/span")).getText();
         try {
             Thread.sleep(1000);
@@ -547,5 +611,143 @@ public class Qnb_Exotic_Policy {
             throw new RuntimeException(e);
         }
     }
+
+
+    //Generate policy for bird of pray species of exotic breed
+    public void selectBirdOfPrayBreed() {
+
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(speciesDropDown).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        breedType = driver.findElement(optionOfSpeciesDropDownForBirdOfPray).getText();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(optionOfSpeciesDropDownForBirdOfPray).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(speciesContinueButton).click();
+        try {
+            Thread.sleep(1500);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
+    ////Generate policy for Mammal  species of exotic breed
+
+    public void selectMammalBreed() {
+
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(speciesDropDown).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        breedType = driver.findElement(optionOfSpeciesDropDownForMammal).getText();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(optionOfSpeciesDropDownForMammal).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(speciesContinueButton).click();
+        try {
+            Thread.sleep(1500);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
+//Generate policy for Reptile species of exotic breed
+    public void selectReptileBreed() {
+
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(speciesDropDown).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        breedType = driver.findElement(optionOfSpeciesDropDownForReptile).getText();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(optionOfSpeciesDropDownForReptile).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(speciesContinueButton).click();
+        try {
+            Thread.sleep(1500);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    //Generate policy for Tortoise and Turtle species of exotic breed
+
+    public void selectTortoiseBreed() {
+
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(speciesDropDown).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        breedType = driver.findElement(optionOfSpeciesDropDownForTortoise).getText();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(optionOfSpeciesDropDownForTortoise).click();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.findElement(speciesContinueButton).click();
+        try {
+            Thread.sleep(1500);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
 }
 

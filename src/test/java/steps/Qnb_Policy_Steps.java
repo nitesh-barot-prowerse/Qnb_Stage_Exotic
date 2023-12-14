@@ -42,4 +42,30 @@ public class Qnb_Policy_Steps {
     public void policy_will_generate_in_to_the_system() {
 
     }
+
+    // Generate policy for bird of pray species of exotic breed
+
+    @When("User selects bird of pray breed of exotic product and clicks on continue button for bird product")
+    public void user_selects_bird_of_pray_breed_of_exotic_product_and_clicks_on_continue_button_for_bird_product() {
+       qnbPolicy.selectBirdOfPrayBreed();
+    }
+
+    //Generate policy for Mammal  species of exotic breed
+    @When("User selects Mammal breed of exotic product and clicks on continue button for bird product")
+    public void user_selects_mammal_breed_of_exotic_product_and_clicks_on_continue_button_for_bird_product() {
+       qnbPolicy. selectMammalBreed();
+    }
+
+
+    //Generate policy for Reptile species of exotic breed
+    @When("User selects Reptile breed of exotic product and clicks on continue button for Reptile product")
+    public void user_selects_reptile_breed_of_exotic_product_and_clicks_on_continue_button_for_reptile_product() {
+       qnbPolicy.selectReptileBreed();
+    }
+
+   //Generate policy for Tortoise and Turtle species of exotic breed
+    @When("User selects Tortoise and Turtle breed of exotic product and clicks on continue button for Tortoise and Turtle product")
+    public void user_selects_tortoise_and_turtle_breed_of_exotic_product_and_clicks_on_continue_button_for_tortoise_and_turtle_product() {
+       qnbPolicy.selectTortoiseBreed();
+    }
 }

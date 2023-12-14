@@ -32,7 +32,7 @@ public class Qnb_Age_Criteria_Steps {
     @When("User enters pet date of birth less than {int} week from current date for bird product")
     public void user_enters_pet_date_of_birth_less_than_week_from_current_date_for_bird_product(Integer int1) {
         String errorMessage = qnbBird.enterClientAndPetDetails();
-        Assert.assertEquals(errorMessage, "We cannot offer cover for Bird's less than 12 weeks of age or over the age of 5 years");
+        Assert.assertEquals(errorMessage, "We cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years");
     }
 
     @Then("User will come across error message and not allowed to move further on the system")
@@ -52,7 +52,7 @@ public class Qnb_Age_Criteria_Steps {
     @When("User enters pet date of birth less than {int} week from current date for mammals product")
     public void user_enters_pet_date_of_birth_less_than_week_from_current_date_for_mammals_product(Integer int1) {
         String errorMessage = qnbBird.enterClientAndPetDetails();
-        Assert.assertEquals(errorMessage, "We cannot offer cover for Reptile's less than 8 weeks of age or over the age of 5 years");
+        Assert.assertEquals(errorMessage, "We cannot offer cover for your pet less than 8 weeks of age or over the age of 5 years");
     }
 
     ////User should not allowed to go further if age of any reptile species under product is less than 12
@@ -66,7 +66,7 @@ public class Qnb_Age_Criteria_Steps {
     @When("User enters pet date of birth less than {int} week from current date for reptile product")
     public void user_enters_pet_date_of_birth_less_than_week_from_current_date_for_reptile_product(Integer int1) {
         String errorMessage = qnbBird.enterClientAndPetDetails();
-        Assert.assertEquals(errorMessage, "We cannot offer cover for Reptile's less than 8 weeks of age or over the age of 5 years");
+        Assert.assertEquals(errorMessage, "We cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years");
     }
 
     //User should not allowed to go further if age of any tortoise species  is less than 12
@@ -79,7 +79,7 @@ public class Qnb_Age_Criteria_Steps {
     @When("User enters pet date of birth less than {int} week from current date for tortoise product")
     public void user_enters_pet_date_of_birth_less_than_week_from_current_date_for_tortoise_product(Integer int1) {
         String errorMessage = qnbBird.enterClientAndPetDetails();
-        Assert.assertEquals(errorMessage, "We cannot offer cover for Bird's less than 12 weeks of age or over the age of 50 years.");
+        Assert.assertEquals(errorMessage, "We cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.");
     }
 
     //User does not allowed to go on the sign up page from client and page details page if age of client is under 18
@@ -93,12 +93,44 @@ public class Qnb_Age_Criteria_Steps {
 
     @When("User enters client date of birth less than {int}  from current date")
     public void user_enters_client_date_of_birth_less_than_from_current_date(Integer int1) {
-        String url= qnbBird.enterUnderAgeClientAndPetDetails();
-        Assert.assertEquals(url,"Unfortunately we are unable to provide insurance cover until you are 18 years of age or older.");
+        String url = qnbBird.enterUnderAgeClientAndPetDetails();
+        Assert.assertEquals(url, "Unfortunately we are unable to provide insurance cover until you are 18 years of age or older.");
     }
 
     @Then("User will come across error message and not allowed to move log in page on the system")
     public void user_will_come_across_error_message_and_not_allowed_to_move_log_in_page_on_the_system() {
 
+    }
+
+    //User does not allowed to go further if age of any bird species is more than 10
+
+    @When("User enters pet date of birth more than {int} years from current date for bird product")
+    public void user_enters_pet_date_of_birth_more_than_years_from_current_date_for_bird_product(Integer int1) {
+        String url = qnbBird.enterClientAndPetDetailsForMaxAgeCriteria();
+        Assert.assertEquals(url, "We cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years");
+    }
+
+    //User does not allowed to go further if age of any Mammals species  is more than 5
+
+    @When("User enters pet date of birth more than {int} years from current date for mammals product")
+    public void user_enters_pet_date_of_birth_more_than_years_from_current_date_for_mammals_product(Integer int1) {
+        String url = qnbBird.enterClientAndPetDetailsForMaxAgeCriteria();
+        Assert.assertEquals(url, "We cannot offer cover for your pet less than 8 weeks of age or over the age of 5 years");
+    }
+
+    //User does not allowed to go further if age of any reptile species is more than 10
+
+    @When("User enters pet date of birth more than {int} years from current date for reptile product")
+    public void user_enters_pet_date_of_birth_more_than_years_from_current_date_for_reptile_product(Integer int1) {
+        String url = qnbBird.enterClientAndPetDetailsForMaxAgeCriteria();
+        Assert.assertEquals(url, "We cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years");
+    }
+
+    //User does not allowed to go further if age of any tortoise species  is more than 50
+
+    @When("User enters pet date of birth more than {int} years from current date for tortoise product")
+    public void user_enters_pet_date_of_birth_more_than_years_from_current_date_for_tortoise_product(Integer int1) {
+        String url = qnbBird.enterClientAndPetDetailsForMaxAgeCriteria();
+        Assert.assertEquals(url, "We cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.");
     }
 }

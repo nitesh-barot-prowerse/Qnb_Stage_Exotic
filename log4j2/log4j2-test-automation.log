@@ -1,0 +1,516 @@
+[INFO ] 2023-12-13 09:00:20.674 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 09:00:21.498 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 09:00:22.850 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 09:00:39.131 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 09:00:42.232 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 09:00:48.400 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 09:00:52.877 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 09:00:53.964 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 09:00:56.045 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 09:00:57.103 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 09:00:58.163 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 09:00:59.224 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 09:01:00.285 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 09:01:01.348 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 09:01:03.427 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 09:01:10.721 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 09:01:12.243 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 09:01:14.846 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 09:01:15.610 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 09:01:16.952 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 09:01:20.353 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 09:01:23.453 [main] Log - User Has Selected Breed Product ==Mammal
+[INFO ] 2023-12-13 09:01:29.584 [main] Log - User Has Selected Species ==Abyssinian Guinea Pig
+[INFO ] 2023-12-13 09:01:33.665 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 09:01:34.743 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 09:01:36.815 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 09:01:37.866 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 09:01:38.917 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 09:01:39.978 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 09:01:41.021 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 09:01:42.089 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 09:01:44.161 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 09:01:50.532 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 09:01:52.052 [main] Log - Error Message
+[INFO ] 2023-12-13 09:01:54.482 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 09:01:55.249 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 09:01:56.595 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 09:02:00.007 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 09:02:03.106 [main] Log - User Has Selected Breed Product ==Reptile
+[INFO ] 2023-12-13 09:02:09.369 [main] Log - User Has Selected Species ==Argentine Tegu
+[INFO ] 2023-12-13 09:02:13.475 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 09:02:14.555 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 09:02:16.645 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 09:02:17.693 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 09:02:18.751 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 09:02:19.815 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 09:02:20.862 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 09:02:21.916 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 09:02:23.980 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 09:02:30.789 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 09:02:32.316 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 09:02:34.778 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 09:02:35.543 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 09:02:36.901 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 09:02:40.314 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 09:02:43.385 [main] Log - User Has Selected Breed Product ==Tortoise & Turtle
+[INFO ] 2023-12-13 09:02:49.450 [main] Log - User Has Selected Species ==African Spurred Tortoise
+[INFO ] 2023-12-13 09:02:53.536 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 09:02:54.608 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 09:02:56.689 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 09:02:57.747 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 09:02:58.795 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 09:02:59.849 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 09:03:00.906 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 09:03:01.961 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 09:03:04.033 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 09:03:10.792 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 09:03:12.318 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.
+[INFO ] 2023-12-13 09:20:20.339 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 09:20:21.704 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 09:25:26.654 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 09:25:28.041 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 09:25:58.212 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 09:25:59.577 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 09:32:28.346 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 09:32:29.721 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:03:05.990 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:03:07.336 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:03:29.197 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:03:30.826 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:04:45.532 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:04:46.892 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:11:03.783 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:11:05.132 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:26:41.978 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:26:42.749 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:26:44.428 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:26:47.888 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:26:50.988 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:26:57.213 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:27:01.676 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:27:02.754 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:27:04.845 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:27:05.901 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:27:06.965 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:27:08.029 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:27:09.079 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:27:10.144 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:27:12.209 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:27:19.037 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:27:20.567 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:27:22.952 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:27:23.714 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:27:25.080 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:27:28.507 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:27:31.596 [main] Log - User Has Selected Breed Product ==Mammal
+[INFO ] 2023-12-13 15:27:37.789 [main] Log - User Has Selected Species ==Abyssinian Guinea Pig
+[INFO ] 2023-12-13 15:27:41.905 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:27:42.978 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:27:45.054 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:27:46.107 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:27:47.161 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:27:48.225 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:27:49.274 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:27:50.329 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:27:52.398 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:27:59.202 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:28:00.735 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 5 years
+[INFO ] 2023-12-13 15:28:03.324 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:28:04.086 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:28:05.765 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:28:09.197 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:28:12.275 [main] Log - User Has Selected Breed Product ==Reptile
+[INFO ] 2023-12-13 15:28:18.393 [main] Log - User Has Selected Species ==Argentine Tegu
+[INFO ] 2023-12-13 15:28:22.473 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:28:23.549 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:28:25.627 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:28:26.686 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:28:27.738 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:28:28.802 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:28:29.855 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:28:30.919 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:28:32.991 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:28:39.787 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:28:41.317 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:28:43.952 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:28:44.709 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:28:46.105 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:28:49.572 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:28:52.659 [main] Log - User Has Selected Breed Product ==Tortoise & Turtle
+[INFO ] 2023-12-13 15:28:58.746 [main] Log - User Has Selected Species ==African Spurred Tortoise
+[INFO ] 2023-12-13 15:29:03.101 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:29:04.184 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:29:06.270 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:29:07.330 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:29:08.373 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:29:09.434 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:29:10.489 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:29:11.557 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:29:13.628 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:29:20.444 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:29:21.964 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.
+[INFO ] 2023-12-13 15:29:24.350 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:29:25.108 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:29:26.677 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:29:30.111 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:29:33.189 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:29:39.424 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:30:07.906 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:30:08.673 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:30:10.016 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:30:13.418 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:30:16.497 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:30:22.556 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:30:26.956 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:30:28.050 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:30:30.138 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:30:31.195 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:30:32.251 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:30:33.302 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:30:34.360 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:30:35.425 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:30:37.486 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:30:44.248 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:30:45.768 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:30:48.255 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:30:49.023 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:30:50.607 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:30:54.109 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:30:57.187 [main] Log - User Has Selected Breed Product ==Mammal
+[INFO ] 2023-12-13 15:31:03.258 [main] Log - User Has Selected Species ==Abyssinian Guinea Pig
+[INFO ] 2023-12-13 15:31:07.328 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:31:08.405 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:31:10.484 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:31:11.546 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:31:12.604 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:31:13.659 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:31:14.705 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:31:15.764 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:31:17.842 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:31:24.209 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:31:25.734 [main] Log - Error Message
+[INFO ] 2023-12-13 15:31:28.294 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:31:29.051 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:31:30.610 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:31:34.051 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:31:37.141 [main] Log - User Has Selected Breed Product ==Reptile
+[INFO ] 2023-12-13 15:31:43.252 [main] Log - User Has Selected Species ==Argentine Tegu
+[INFO ] 2023-12-13 15:31:47.664 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:31:48.749 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:31:50.829 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:31:51.884 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:31:52.938 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:31:53.990 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:31:55.045 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:31:56.111 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:31:58.181 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:32:04.973 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:32:06.505 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:32:09.030 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:32:09.795 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:32:11.171 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:32:14.610 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:32:17.683 [main] Log - User Has Selected Breed Product ==Tortoise & Turtle
+[INFO ] 2023-12-13 15:32:23.788 [main] Log - User Has Selected Species ==African Spurred Tortoise
+[INFO ] 2023-12-13 15:32:27.830 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:32:28.916 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:32:31.000 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:32:32.054 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:32:33.099 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:32:34.151 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:32:35.199 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:32:36.263 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:32:38.328 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:32:45.122 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:32:46.649 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.
+[INFO ] 2023-12-13 15:36:01.808 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:36:02.572 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:36:03.918 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:36:07.288 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:36:10.370 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:36:16.438 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:36:20.462 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:36:21.541 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:36:23.639 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:36:24.700 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:36:25.752 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:36:26.808 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:36:27.869 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:36:28.934 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:36:31.019 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:36:37.785 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:36:39.311 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:36:41.636 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:36:42.395 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:36:43.766 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:36:47.185 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:36:50.295 [main] Log - User Has Selected Breed Product ==Mammal
+[INFO ] 2023-12-13 15:36:56.447 [main] Log - User Has Selected Species ==Abyssinian Guinea Pig
+[INFO ] 2023-12-13 15:37:00.835 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:37:01.901 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:37:03.983 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:37:05.034 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:37:06.089 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:37:07.157 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:37:08.210 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:37:09.267 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:37:11.344 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:37:18.139 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:37:19.664 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 5 years
+[INFO ] 2023-12-13 15:37:22.058 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:37:22.832 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:37:24.191 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:37:27.649 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:37:30.733 [main] Log - User Has Selected Breed Product ==Reptile
+[INFO ] 2023-12-13 15:37:36.835 [main] Log - User Has Selected Species ==Argentine Tegu
+[INFO ] 2023-12-13 15:37:40.897 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:37:41.980 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:37:44.067 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:37:45.119 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:37:46.164 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:37:47.220 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:37:48.277 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:37:49.335 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:37:51.407 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:37:58.188 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:37:59.715 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:38:02.165 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:38:02.919 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:38:04.267 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:38:07.682 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:38:10.782 [main] Log - User Has Selected Breed Product ==Tortoise & Turtle
+[INFO ] 2023-12-13 15:38:16.896 [main] Log - User Has Selected Species ==African Spurred Tortoise
+[INFO ] 2023-12-13 15:38:21.365 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:38:22.435 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:38:24.509 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:38:25.567 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:38:26.616 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:38:27.678 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:38:28.726 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:38:29.785 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:38:31.856 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:38:38.670 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:38:40.199 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.
+[INFO ] 2023-12-13 15:38:42.511 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:38:43.268 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:38:44.885 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:38:48.273 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:38:51.365 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:38:57.478 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:39:25.279 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:39:26.039 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:39:27.441 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:39:30.863 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:39:33.952 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:39:40.083 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:39:44.588 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:39:45.668 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:39:47.749 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:39:48.807 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:39:49.854 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:39:50.917 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:39:51.972 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:39:53.035 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:39:55.127 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:40:01.901 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:40:03.427 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:40:05.856 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:40:06.613 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:40:07.953 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:40:11.331 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:40:14.421 [main] Log - User Has Selected Breed Product ==Mammal
+[INFO ] 2023-12-13 15:40:20.611 [main] Log - User Has Selected Species ==Abyssinian Guinea Pig
+[INFO ] 2023-12-13 15:40:24.658 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:40:25.725 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:40:27.790 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:40:28.841 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:40:29.894 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:40:30.949 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:40:31.993 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:40:33.057 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:40:35.124 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:40:41.460 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:40:42.979 [main] Log - Error Message
+[INFO ] 2023-12-13 15:40:45.614 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:40:46.367 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:40:47.945 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:40:51.400 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:40:54.491 [main] Log - User Has Selected Breed Product ==Reptile
+[INFO ] 2023-12-13 15:41:00.584 [main] Log - User Has Selected Species ==Argentine Tegu
+[INFO ] 2023-12-13 15:41:04.665 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:41:05.743 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:41:07.816 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:41:08.865 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:41:09.913 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:41:10.973 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:41:12.027 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:41:13.091 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:41:15.161 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:41:21.986 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:41:23.515 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:41:25.802 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:41:26.559 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:41:28.191 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:41:31.575 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:41:34.660 [main] Log - User Has Selected Breed Product ==Tortoise & Turtle
+[INFO ] 2023-12-13 15:41:40.685 [main] Log - User Has Selected Species ==African Spurred Tortoise
+[INFO ] 2023-12-13 15:41:44.724 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:41:45.799 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:41:47.875 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:41:48.923 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:41:49.969 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:41:51.029 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:41:52.082 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:41:53.137 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:41:55.205 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:42:01.983 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:42:03.511 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.
+[INFO ] 2023-12-13 15:49:33.401 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:49:34.757 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:50:52.745 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:50:54.114 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:52:12.610 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:52:13.969 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:54:37.748 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:54:38.512 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:54:39.874 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:54:43.281 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:54:46.358 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:54:52.430 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:54:56.959 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:54:58.029 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:55:00.113 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:55:01.170 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:55:02.222 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:55:03.286 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:55:04.335 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:55:05.405 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:55:07.488 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:55:14.297 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:55:15.823 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:55:18.297 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:55:19.053 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:55:20.425 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:55:23.836 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:55:26.918 [main] Log - User Has Selected Breed Product ==Mammal
+[INFO ] 2023-12-13 15:55:33.009 [main] Log - User Has Selected Species ==Abyssinian Guinea Pig
+[INFO ] 2023-12-13 15:55:37.080 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:55:38.169 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:55:40.246 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:55:41.299 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:55:42.348 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:55:43.408 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:55:44.456 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:55:45.518 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:55:47.602 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:55:54.397 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:55:55.929 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 5 years
+[INFO ] 2023-12-13 15:55:58.356 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:55:59.107 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:56:00.464 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:56:03.848 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:56:06.932 [main] Log - User Has Selected Breed Product ==Reptile
+[INFO ] 2023-12-13 15:56:12.995 [main] Log - User Has Selected Species ==Argentine Tegu
+[INFO ] 2023-12-13 15:56:17.029 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:56:18.103 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:56:20.184 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:56:21.233 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:56:22.283 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:56:23.339 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:56:24.387 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:56:25.455 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:56:27.530 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:56:34.313 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:56:35.835 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:56:38.333 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:56:39.102 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:56:40.457 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:56:43.854 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:56:46.940 [main] Log - User Has Selected Breed Product ==Tortoise & Turtle
+[INFO ] 2023-12-13 15:56:52.990 [main] Log - User Has Selected Species ==African Spurred Tortoise
+[INFO ] 2023-12-13 15:56:57.390 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:56:58.458 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:57:00.537 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:57:01.598 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:57:02.653 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:57:03.714 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:57:04.767 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:57:05.829 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:57:07.901 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:57:14.684 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:57:16.203 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.
+[INFO ] 2023-12-13 15:57:18.925 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:57:19.682 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:57:21.051 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:57:24.530 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:57:27.598 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:57:33.671 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:58:01.488 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:58:02.252 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:58:03.603 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:58:06.980 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:58:10.061 [main] Log - User Has Selected Breed Product ==Bird
+[INFO ] 2023-12-13 15:58:16.154 [main] Log - User Has Selected Species ==Abacot Ranger Duck
+[INFO ] 2023-12-13 15:58:20.197 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:58:21.265 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:58:23.329 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:58:24.384 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:58:25.441 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:58:26.503 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:58:27.562 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:58:28.625 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:58:30.705 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:58:37.462 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:58:38.981 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 15:58:41.332 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:58:42.088 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:58:43.466 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:58:46.859 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:58:49.932 [main] Log - User Has Selected Breed Product ==Mammal
+[INFO ] 2023-12-13 15:58:55.992 [main] Log - User Has Selected Species ==Abyssinian Guinea Pig
+[INFO ] 2023-12-13 15:59:00.036 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:59:01.113 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:59:03.184 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:59:04.238 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:59:05.299 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:59:06.364 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:59:07.405 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:59:08.474 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:59:10.545 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:59:16.884 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:59:18.413 [main] Log - Error Message
+[INFO ] 2023-12-13 15:59:20.857 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 15:59:21.609 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 15:59:22.954 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 15:59:26.353 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 15:59:29.426 [main] Log - User Has Selected Breed Product ==Reptile
+[INFO ] 2023-12-13 15:59:35.496 [main] Log - User Has Selected Species ==Argentine Tegu
+[INFO ] 2023-12-13 15:59:39.544 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 15:59:40.627 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 15:59:42.708 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 15:59:43.767 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 15:59:44.820 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 15:59:45.882 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 15:59:46.931 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 15:59:47.993 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 15:59:50.055 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 15:59:56.861 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 15:59:58.385 [main] Log - Error MessageWe cannot offer cover for your pet less than 8 weeks of age or over the age of 10 years
+[INFO ] 2023-12-13 16:00:00.910 [main] Log - To Verify Under Age Of Pet Feature Starts Here
+[INFO ] 2023-12-13 16:00:01.663 [main] Log - User Has Entered Name Of Pet
+[INFO ] 2023-12-13 16:00:03.022 [main] Log - User Has Clicked On Continue Button To Move On Picture Upload Page
+[INFO ] 2023-12-13 16:00:07.150 [main] Log - User Has Clicked On Upload Picture Button To Move On Select Product Page
+[INFO ] 2023-12-13 16:00:10.222 [main] Log - User Has Selected Breed Product ==Tortoise & Turtle
+[INFO ] 2023-12-13 16:00:16.315 [main] Log - User Has Selected Species ==African Spurred Tortoise
+[INFO ] 2023-12-13 16:00:20.403 [main] Log - User Has Selected Pet Gender
+[INFO ] 2023-12-13 16:00:21.474 [main] Log - User Has Entered Pet Date Of Birth
+[INFO ] 2023-12-13 16:00:23.537 [main] Log - User Has Clicked On Client Detail Section
+[INFO ] 2023-12-13 16:00:24.600 [main] Log - User Has Entered On Client First Name
+[INFO ] 2023-12-13 16:00:25.648 [main] Log - User Has Entered Client Last Name
+[INFO ] 2023-12-13 16:00:26.709 [main] Log - User Has Entered  Client Email Id
+[INFO ] 2023-12-13 16:00:27.755 [main] Log - User Has Entered  Client Mobile Number
+[INFO ] 2023-12-13 16:00:28.818 [main] Log - User Has Entered  Client Date Of Birth
+[INFO ] 2023-12-13 16:00:30.887 [main] Log - User Has Entered Client Postcode
+[INFO ] 2023-12-13 16:00:37.655 [main] Log - User Has Entered Submit Button
+[INFO ] 2023-12-13 16:00:39.184 [main] Log - Error MessageWe cannot offer cover for your pet less than 12 weeks of age or over the age of 50 years.
